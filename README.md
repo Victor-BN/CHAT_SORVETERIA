@@ -42,14 +42,7 @@ Chatbot simples em Java para atendimento de uma sorveteria fictícia chamada **G
 3. Abra o arquivo `Main.java` e clique em **Run** (botão que aparece acima do método `main`).
 4. A conversa acontece no terminal integrado do VS Code.
 
-### Opção 2: pelo terminal (sem IDE)
 
-Com o JDK instalado, na pasta onde estão os arquivos:
-
-```bash
-javac Main.java ChatBotSorveteria.java
-java Main
-```
 
 ## Como usar o bot
 
